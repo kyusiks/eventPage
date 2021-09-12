@@ -1,3 +1,9 @@
+---
+title:  "[임시] 작업내역 포트폴리오"
+excerpt: "특정 목적에 의해 일시적으로 생성된 페이지. 최근작업분 위주로 업데이트"
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kyusiks/test1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
